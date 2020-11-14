@@ -5,7 +5,7 @@
 
 Hi, I'm Hau Nguyen Phuc, a Mobile Developer 🚀 from Vietnam.🙍 Beside's programming, I enjoy eating food, reading book and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/haunguyenphuc1110/haunguyenphuc1110/blob/main/code.gif?raw=true" width="500" height="320" />
 
 # Tech Skills
 
