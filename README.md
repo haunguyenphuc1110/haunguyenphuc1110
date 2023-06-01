@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hau-nguyen-phuc-444a0816b/)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/haunguyenphuc1110)
 
-Hi, I'm Hau Nguyen Phuc, a Mobile Developer 🚀 from Vietnam.🙍 Beside's programming, I enjoy eating food, reading book and traveling.
+Hi, I'm Hau Nguyen Phuc, a Mobile Developer 🚀 from Vietnam.🙍 Beside's programming, I enjoy code.
 
   <img align="right" alt="GIF" src="https://github.com/haunguyenphuc1110/haunguyenphuc1110/blob/main/code.gif?raw=true" width="500" height="320" />
 
