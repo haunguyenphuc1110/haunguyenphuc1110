@@ -15,7 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 Specializing in **mobile and web development** using **React Native** and **React**.
+- 🚀 Optimizing app performance, reducing crash rates, and improving startup time.
+- 🧠 Designing intuitive user experiences through thoughtful architecture and responsive interfaces.
+- 🔧 Implementing scalable state management patterns and data flows across complex feature sets.
+- ⚙️ Automating CI/CD pipelines, app distribution, and over-the-air updates for faster release cycles.
+- 📈 Monitoring and debugging production issues using observability tools and crash reporting platforms.
 - ⚡ Focused on clean code, smooth UX, and scalable architecture.
 - 🔄 Experienced in cross-functional collaboration and agile remote teams.
 
@@ -54,10 +58,17 @@
 
 ## 📚 Currently Exploring
 
-- ⚛️ Reanimated 3 & gesture-based UI
-- 🧪 Detox + advanced testing flows
-- 🔁 Turborepo + monorepo dev structure
-- 🔄 Firebase + Supabase full-stack workflows
+🔧 Native Mobile Development
+- Exploring platform-specific capabilities in Kotlin and Swift to better bridge native modules, improve performance, and understand low-level behavior in cross-platform apps.
+
+🌐 Modern Web Ecosystem
+- Gaining hands-on experience with Next.js App Router, server components, Tailwind CSS strategies, and headless CMS integrations to build faster, SEO-friendly web apps.
+
+🔁 Full-Stack Workflows
+- Building full-stack applications using Firebase, Supabase, Node.js, and serverless functions. Focusing on authentication, real-time data, and scalable APIs.
+
+📦 Architecture & DevOps
+- Experimenting with Turborepo for monorepo setups, EAS for mobile CI/CD, and improving automated testing strategies for both mobile and web projects.
 
 ---
 
