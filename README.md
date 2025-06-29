@@ -58,12 +58,6 @@
 
 ## 📚 Currently Exploring
 
-🔧 Native Mobile Development
-- Exploring platform-specific capabilities in Kotlin and Swift to better bridge native modules, improve performance, and understand low-level behavior in cross-platform apps.
-
-🌐 Modern Web Ecosystem
-- Gaining hands-on experience with Next.js App Router, server components, Tailwind CSS strategies, and headless CMS integrations to build faster, SEO-friendly web apps.
-
 🔁 Full-Stack Workflows
 - Building full-stack applications using Firebase, Supabase, Node.js, and serverless functions. Focusing on authentication, real-time data, and scalable APIs.
 
