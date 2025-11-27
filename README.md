@@ -25,16 +25,55 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### Aspire Business Account and Card
+A unified intelligent solution designed to manage your global business operations and scale company spend, all-in-one account
+
+- Android: https://play.google.com/store/apps/details?id=com.aspireapp.sg&hl=en-IN
+
+- IOS: https://apps.apple.com/in/app/aspire-business-account-card/id1514566206
+
+- Web: https://aspireapp.com/
+
+**Tech:** React, React Native, Kotlin, Swift, TypeScript, Vue.js
+
+### Vexere: Book Bus Flight Train
+Vexere is the pioneer one-stop-shop booking app in Vietnam that allow people to search and book bus, flight, train tickets in the shortest time with a single click on only one screen
+
+- Android: https://play.google.com/store/apps/details?id=com.vexere.vexere&hl=en-IN
+
+- IOS: https://apps.apple.com/in/app/vexere-book-bus-flight-train/id1183279479
+
+- Web: https://vexere.com/en-US
+
+**Tech:** React, React Native, Next.js
+
+### Shahid
+Shahid is Arabic Entertainment platform, a leading platform for the best Arabic Originals, exclusive series, blockbuster movies, live TV, sports, and so much more 
+
+- Android: https://play.google.com/store/apps/details?id=net.mbc.shahid&hl=en-IN
+  
+- IOS: https://apps.apple.com/in/app/%D8%B4%D8%A7%D9%87%D8%AF-shahid/id879915134
+
+**Tech:** React, React Native, Java
+
+### JYBR
+Secure e-signatures no fees, no hassle
+
+- Web: https://jybr.com/
+
+**Tech:** Next.js, Web3, Infisical, Prisma, Sui wallet SDK, Seal, openai, AWS SDK
+
+---
+
 ## 🧰 Tech Stack & Tools
 
-### 🗣️ **Programming Languages**
-- JavaScript, TypeScript
-
 ### 📱 **Mobile Development**
-- React Native (bare & Expo), Kotlin (Android), Swift (iOS)
+- JavaScript, TypeScript, React Native (bare & Expo), Kotlin (Android), Swift (iOS)
 
 ### 🌐 **Web Technologies**
-- React.js, Next.js, Vue.js
+- JavaScript, TypeScript, React.js, Next.js, Vue.js
 
 ### 📦 **State & Side Effect Management**
 - Redux, Zustand, Redux Thunk, Redux Observable
