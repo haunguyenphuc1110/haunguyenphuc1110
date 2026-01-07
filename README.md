@@ -90,8 +90,8 @@ Secure e-signatures no fees, no hassle
 
 ## 📈 GitHub Stats
 
-![Hau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haunguyenphuc1110&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haunguyenphuc1110&layout=compact&theme=radical)
+![Hau's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=haunguyenphuc1110&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haunguyenphuc1110&hide_progress=true&layout=compact&theme=tokyonight)
 
 ---
 
