@@ -9,7 +9,6 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=haunguyenphuc1110&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/haunguyenphuc1110?label=Followers&style=flat-square)
 
 ---
 
