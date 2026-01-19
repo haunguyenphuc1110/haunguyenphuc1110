@@ -64,6 +64,17 @@ Secure e-signatures no fees, no hassle
 
 **Tech:** Next.js, Web3, Infisical, Prisma, Sui wallet SDK, Seal, openai, AWS SDK
 
+### Dopamineapp
+Dopamine is a non-custodial, secure, and anonymous cryptocurrency mobile app wallet. Furthermore it offers a variety of features that help any type of user navigate the cryptocurrency market.
+
+- Android: https://play.google.com/store/apps/details?id=com.kyriakosalexandrou.coinmarketcap
+
+- IOS: https://apps.apple.com/us/app/dopamine-bitcoin-crypto/id1350234503
+
+- Web: https://www.dopamineapp.com/
+
+**Tech:** React, React Native, Next.js, Node.js, Swift, Java, Kotlin
+
 ---
 
 ## 🧰 Tech Stack & Tools
