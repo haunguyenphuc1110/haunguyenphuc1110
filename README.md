@@ -27,7 +27,7 @@ Building fast, reliable, production-grade apps, from native integrations to CI/C
 
 <img align="right" src="./code.gif" width="360" alt="Coding" />
 
-I'm a **Senior React Native Engineer** with **5+ years** of experience building and shipping production apps for iOS and Android. I'm currently a **Frontend Engineer (Mobile & Web)** at [**Employment Hero**](https://employmenthero.com/), working on the company's next-generation employment SuperApp.
+I'm a **Senior React Native Engineer** with **6+ years** of experience building and shipping production apps for iOS and Android. I'm currently a **Frontend Engineer (Mobile & Web)** at [**Employment Hero**](https://employmenthero.com/), working on the company's next-generation employment SuperApp.
 
 - 📱 **End-to-end ownership:** from technical design through testing, release, and production support
 - 🔗 **Native integrations:** Swift & Kotlin for biometrics, jailbreak/root detection, Apple Pay, Google Pay
@@ -41,7 +41,7 @@ I'm a **Senior React Native Engineer** with **5+ years** of experience building 
 
 <div align="center">
 
-| 🗓️ **5+ years** | 📱 **6 shipped products** | 🛡️ **< 0.1% crash rate** | 🌏 **iOS · Android · Web** |
+| 🗓️ **6+ years** | 📱 **6 shipped products** | 🛡️ **< 0.1% crash rate** | 🌏 **iOS · Android · Web** |
 | :---: | :---: | :---: | :---: |
 | React Native in production | Fintech, HR, travel, media, crypto | Monitored with Sentry & Datadog | One codebase, every platform |
 
