@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Hau+Nguyen+Phuc;Senior+Mobile+Engineer+%C2%B7+React+Native;Shipping+iOS+%26+Android+apps+since+2019;Mobile+%C2%B7+Web+%C2%B7+Full-stack+delivery" alt="Typing intro" />
 
-### Senior Mobile Engineer · React Native · iOS & Android
+### Senior Mobile Engineer · iOS & Android
 
 Building fast, reliable, production-grade apps, from native integrations to CI/CD and release.
 
