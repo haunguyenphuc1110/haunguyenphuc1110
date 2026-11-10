@@ -181,7 +181,7 @@ I'm a **Senior React Native Engineer** with **6+ years** of experience building 
 
 ### 🤝 Let's build something great together
 
-Open to remote Senior Mobile / React Native roles. Feel free to reach out!
+Open to Senior Mobile / Web roles. Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/hau-nguyen-phuc-444a0816b/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:ngphuchau1110@gmail.com"><img src="https://img.shields.io/badge/Say_hi-by_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
